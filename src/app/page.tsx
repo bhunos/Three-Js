@@ -1,7 +1,8 @@
-import ThreeScene from "@/components/ThreeScene";
+import React from "react";
+import Ranger from "@/components/Rager";
 
 export default function Home() {
   return (
-      <ThreeScene/>
+      <Ranger/>
   )
 }
